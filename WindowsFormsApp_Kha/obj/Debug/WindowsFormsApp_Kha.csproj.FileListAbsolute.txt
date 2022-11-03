@@ -1,0 +1,15 @@
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.csproj.AssemblyReference.cache
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.csproj.SuggestedBindingRedirects.cache
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.Form1.resources
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.Students.resources
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.Properties.Resources.resources
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.csproj.GenerateResource.cache
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\bin\Debug\WindowsFormsApp_Kha.exe.config
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\bin\Debug\WindowsFormsApp_Kha.exe
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\bin\Debug\WindowsFormsApp_Kha.pdb
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.Subjects.resources
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.exe
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.pdb
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.Uspev.resources
+C:\Users\ПК\source\repos\WindowsFormsApp_Kha\WindowsFormsApp_Kha\obj\Debug\WindowsFormsApp_Kha.StudentsTable.resources
